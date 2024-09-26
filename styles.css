@@ -1,0 +1,27 @@
+p{
+    color: blue;
+}
+
+div{
+    font-size: 16px;
+    color: coral;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+
+.shadow{
+    color: yellow;
+}
+
+p{
+    color: green;
+}
+
+div{
+    background-color: blue;
+    font-family: sans-serif #961111;
+}
+
